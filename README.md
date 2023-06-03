@@ -7,8 +7,8 @@ Usage:
 2) Run app
 3) Get sorted files by year in /ordered folder:
 
-  Example of /ordered:
-    2021:
-      pic13.jpg
-    2022:
-      pic1.jpg 
+  Example of /ordered:<br/>
+&nbsp;&nbsp;2021:<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;pic13.jpg<br/>
+&nbsp;&nbsp;2022:<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;pic1.jpg <br/>
